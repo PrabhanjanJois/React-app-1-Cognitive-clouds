@@ -2,7 +2,7 @@
   "name": "react-app-cc-session",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://PrabhanjanJois.github.io/React-app-1-Cognitive-clouds",
+  "homepage": "https://PrabhanjanJois.github.io/React-app-1-Cognitive-clouds",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
